@@ -8,6 +8,12 @@ Este projeto faz parte de um ecossistema que inclui o backend
 
 ---
 
+## 📚 Diagrama
+
+![image](https://github.com/user-attachments/assets/c09b9e66-332d-4570-8ec6-9e02386314b7)
+
+---
+
 ## 📌 Funcionalidades
 
 - UI moderna usando Jetpack Compose
@@ -74,12 +80,6 @@ Caso use emulador Android, substitua por `10.0.2.2` na configuração do canal g
 | Comunicação | gRPC Kotlin             |
 | Build       | Gradle + Kotlin DSL     |
 | Injeção     | Hilt ou Koin (se usado) |
-
----
-
-## 📚 Diagrama
-
-![image](https://github.com/user-attachments/assets/c09b9e66-332d-4570-8ec6-9e02386314b7)
 
 ---
 
