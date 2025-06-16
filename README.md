@@ -107,8 +107,10 @@ Na camada de dados (`data/`), o cliente se conecta usando `ManagedChannel` e con
 
 ## ▶️ Aplicação em execução
 
-[sample.webm](https://github.com/user-attachments/assets/b15dca2d-bad9-432b-aef4-ed405c605517)
 
+https://github.com/user-attachments/assets/2fe7bd1f-13d2-4d5a-830f-fc63adccd2bb
+
+---
 
 ## 🔄 Integração com Backend
 
