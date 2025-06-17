@@ -33,8 +33,7 @@ sample-grpc-compose/
 │   ├── proto/               # Arquivos .proto e stubs gerados
 │   ├── di/                  # Injeção de dependências (gRPC channel, service)
 │   ├── ui/                  # Telas Jetpack Compose
-│   ├── data/                # Lógica de consumo gRPC
-│   └── MainActivity.kt      # Tela principal
+│   └── MainActivity.kt      # Tela principal / Lógica de consumo gRPC
 ├── build.gradle             # Configuração global
 └── settings.gradle
 
@@ -79,7 +78,6 @@ Caso use emulador Android, substitua por `10.0.2.2` na configuração do canal g
 | Backend     | gRPC com Protobuf       |
 | Comunicação | gRPC Kotlin             |
 | Build       | Gradle + Kotlin DSL     |
-| Injeção     | Hilt ou Koin (se usado) |
 
 ---
 
