@@ -31,7 +31,6 @@ Este projeto faz parte de um ecossistema que inclui o backend
 sample-grpc-compose/
 ├── app/                     # Código principal do app Android
 │   ├── proto/               # Arquivos .proto e stubs gerados
-│   ├── di/                  # Injeção de dependências (gRPC channel, service)
 │   ├── ui/                  # Telas Jetpack Compose
 │   └── MainActivity.kt      # Tela principal / Lógica de consumo gRPC
 ├── build.gradle             # Configuração global
