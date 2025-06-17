@@ -20,7 +20,6 @@ Este projeto faz parte de um ecossistema que inclui o backend
 - Comunicação com backend gRPC (Go)
 - Suporte a chamadas **streaming gRPC**
 - Geração automática de stubs a partir de arquivos `.proto`
-- Arquitetura limpa e modularizada
 
 ---
 
@@ -59,7 +58,7 @@ cd sample-grpc-compose
 ### 3. Rodar o servidor backend
 
 Certifique-se de que o servidor gRPC esteja rodando em `localhost:50051`.
-Caso use emulador Android, substitua por `10.0.2.2` na configuração do canal gRPC.
+Caso use emulador Android, substitua por `seu-ip-local` na configuração do canal gRPC.
 
 ### 4. Abrir e executar no Android Studio
 
